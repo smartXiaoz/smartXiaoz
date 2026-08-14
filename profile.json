@@ -1,0 +1,89 @@
+{
+  "name": "Shan Zhong",
+  "title": "Associate Researcher",
+  "institution": {
+    "name": "University of Electronic Science and Technology of China",
+    "short_name": "UESTC",
+    "url": "https://en.uestc.edu.cn/"
+  },
+  "email": "202211040927@std.uestc.edu.cn",
+  "github": "https://github.com/smartXiaoz",
+  "orcid": "0009-0007-0802-0902",
+  "avatar": "assets/avatar.png",
+  "bio": [
+    "I am an Associate Researcher at the University of Electronic Science and Technology of China (UESTC). I received my Ph.D. in Mechanical Engineering (Robotics) from UESTC under the supervision of Prof. Bei Peng. From 2024 to 2025, I was a CSC-sponsored visiting Ph.D. researcher at Nanyang Technological University, working with Prof. Tee Hiang Cheng.",
+    "My research interests include embodied intelligence, reinforcement learning, generative models, and signal processing. My current work focuses on diffusion- and flow-based reinforcement learning, multimodal policy and value representations, entropy estimation for exploration, and robust estimation under non-Gaussian noise."
+  ],
+  "publications": [
+    {
+      "title": "Information Potential: A Novel Guidance Framework for Diffusion Reinforcement Learning",
+      "authors": "Shan Zhong, et al.",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "details": "2026",
+      "paper": "https://doi.org/10.1109/TIE.2026.3699885"
+    },
+    {
+      "title": "MAD3PG: A Framework for Multi-Agent Deep Denoising Diffusion Policy Gradient Optimization",
+      "authors": "Shan Zhong, Gang Wang, Jingkui Zhang, et al.",
+      "venue": "Information Fusion",
+      "details": "129:104026, 2026",
+      "paper": "https://doi.org/10.1016/j.inffus.2025.104026",
+      "code": "https://github.com/smartXiaoz/MAD3PG"
+    },
+    {
+      "title": "Online Graph Models: Tackling the Challenges of Non-Gaussian Noise in Adaptive Filtering",
+      "authors": "Shan Zhong, Gang Wang, Kah Chan Teh, Jiacheng He, Tee Hiang Cheng, Bei Peng",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "details": "2025",
+      "paper": "https://doi.org/10.1109/TNNLS.2025.3553872",
+      "code": "https://github.com/smartXiaoz/GS-RAF"
+    },
+    {
+      "title": "Outlier-Aware Recursive Instantaneous Minimum Error Entropy Algorithm",
+      "authors": "Shan Zhong, Bei Peng, Ziyi Wang, et al.",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "details": "55(6):4076–4090, 2025",
+      "paper": "https://doi.org/10.1109/TSMC.2025.3547378"
+    },
+    {
+      "title": "Kalman Filtering Based on Dynamic Perception of Measurement Noise",
+      "authors": "Shan Zhong, Bei Peng, Jiacheng He, et al.",
+      "venue": "Mechanical Systems and Signal Processing",
+      "details": "213:111343, 2024",
+      "paper": "https://doi.org/10.1016/j.ymssp.2024.111343",
+      "code": "https://github.com/smartXiaoz/DAKF"
+    },
+    {
+      "title": "Robust Adaptive Filtering Based on M-estimation-based Minimum Error Entropy Criterion",
+      "authors": "Shan Zhong, Ziyi Wang, Gang Wang, et al.",
+      "venue": "Information Sciences",
+      "details": "658:120026, 2024",
+      "paper": "https://doi.org/10.1016/j.ins.2023.120026",
+      "code": "https://github.com/smartXiaoz/MMEE"
+    },
+    {
+      "title": "A Pseudolinear Maximum Correntropy Kalman Filter Framework for Bearings-Only Target Tracking",
+      "authors": "Shan Zhong, Bei Peng, Li Ouyang, et al.",
+      "venue": "IEEE Sensors Journal",
+      "details": "23(17):19524–19538, 2023",
+      "paper": "https://doi.org/10.1109/JSEN.2023.3283863"
+    }
+  ],
+  "preprints": [
+    {
+      "title": "FlowCritic: Bridging Value Estimation with Flow Matching in Reinforcement Learning",
+      "authors": "Shan Zhong, Shutong Ding, He Diao, Xiangyu Wang, Kah Chan Teh, Bei Peng",
+      "venue": "arXiv:2510.22686",
+      "details": "2025",
+      "paper": "https://arxiv.org/abs/2510.22686"
+    }
+  ],
+  "awards": [
+    "Young Scientists Talent Cultivation Project — Doctoral Program, China Association for Science and Technology, 2025",
+    "National Graduate Scholarship, 2025",
+    "First Prize, Tencent Kaiwu AI Agent Challenge, 2025",
+    "CSC Scholarship, 2024",
+    "First place among university teams nationwide, Air–Underwater Confrontation Intelligent Agent Challenge, 2024"
+  ],
+  "patents_and_service": "I have filed five invention patents, two of which have been granted. I serve as a reviewer for journals including IEEE Transactions on Neural Networks and Learning Systems and IEEE Transactions on Systems, Man, and Cybernetics: Systems."
+}
