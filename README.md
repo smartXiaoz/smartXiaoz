@@ -4,7 +4,7 @@
 ### 钟山 Zhong Shan
 
 **Associate Researcher (副研究员)**  
-[University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
+[University of Electronic Science and Technology of China (电子科技大学)](https://en.uestc.edu.cn/)
 
 [Email](mailto:202211040927@std.uestc.edu.cn) / [GitHub](https://github.com/smartXiaoz) / [ORCID](https://orcid.org/0009-0007-0802-0902)
 
