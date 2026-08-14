@@ -1,7 +1,7 @@
 <!-- Generated from profile.json by scripts/build_profile.py. -->
 <img src="assets/avatar.png" alt="Shan Zhong" width="180" align="right" />
 
-# Shan Zhong
+### Shan Zhong
 
 **Associate Researcher**  
 [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)

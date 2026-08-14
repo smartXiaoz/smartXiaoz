@@ -45,7 +45,7 @@ def build_readme(data: dict) -> str:
         "<!-- Generated from profile.json by scripts/build_profile.py. -->",
         f'<img src="{data["avatar"]}" alt="{data["name"]}" width="180" align="right" />',
         "",
-        f"# {data['name']}",
+        f"### {data['name']}",
         "",
         f"**{data['title']}**  ",
         f"[{institution['name']}]({institution['url']})",
