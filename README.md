@@ -1,9 +1,9 @@
 <!-- Generated from profile.json by scripts/build_profile.py. -->
-<img src="assets/avatar.png" alt="Shan Zhong" width="180" align="right" />
+<img src="assets/avatar.png" alt="钟山 Zhong Shan" width="180" align="right" />
 
-### Shan Zhong
+### 钟山 Zhong Shan
 
-**Associate Researcher**  
+**Associate Researcher (副研究员)**  
 [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/)
 
 [Email](mailto:202211040927@std.uestc.edu.cn) / [GitHub](https://github.com/smartXiaoz) / [ORCID](https://orcid.org/0009-0007-0802-0902)
